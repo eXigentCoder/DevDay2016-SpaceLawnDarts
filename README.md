@@ -1,13 +1,14 @@
 # DevDay2016-SpaceLawnDarts
-
+![](https://raw.githubusercontent.com/eXigentCoder/DevDay2016-SpaceLawnDarts/master/images/SpaceDarts1.png)
 ## About
-
+Todays competition is to launch a payload to space and return the first stage safely back to the launch pad for reuse!
 ## Basic Guide
 1. Open map
 1. Set KSP as target in Trajectory
-1. Adjust re-entry params to retrograde in Trajectory
-1. Open resource view
-1. Click Stage View
+1. Adjust re-entry params to retrograde in Trajectory  
+![](https://raw.githubusercontent.com/eXigentCoder/DevDay2016-SpaceLawnDarts/master/images/Trajectory.png)
+1. Open resources pannel and click `Stage View`  
+![](https://raw.githubusercontent.com/eXigentCoder/DevDay2016-SpaceLawnDarts/master/images/Resource.png)
 1. Launch by hitting `Stage`
 1. Go up untill speed is at **~100m/s**
 1. Slowly start your turn to the east (**D key**)
@@ -24,8 +25,10 @@
 8. Flip the rocket back around to point retrograde
 9. Diable RCS thrusters using `r`
 10. Deploy grid fins using `2`
-11. lock heading to retrograde
-12. Watch your **suicide burn** counter in the top right
+11. Lock heading to retrograde  
+![](https://raw.githubusercontent.com/eXigentCoder/DevDay2016-SpaceLawnDarts/master/images/Retrograde.png)
+12. Watch your **suicide burn** counter in the top right  
+![](https://raw.githubusercontent.com/eXigentCoder/DevDay2016-SpaceLawnDarts/master/images/SuicideBurn.png)
 13. When it gets to ~0 ignight your engine
 14. Feather the throttle or toggle the engine until you are on the ground
 15. ???
@@ -64,5 +67,6 @@
 - `40 points` Land on water First stage reached at least **300m/s** and **13000m** altitude
 - `40 points` Payload reaches a stable orbit -`20 points` if the second stage is not on a suborbital trajectory and going to crash back to Kerbin - Kessler syndrome
 - `50 points` Land on **Bug-E Buggy** (Stacks with land on the ground)
+![](https://raw.githubusercontent.com/eXigentCoder/DevDay2016-SpaceLawnDarts/master/images/Bug-E%20Buggy.png)
 - `15 points` Crash land on ground, engine or guidance computer survive. Stacks.
 - `7 points` Crash land on water, engine or guidance computer survive. Stacks.
