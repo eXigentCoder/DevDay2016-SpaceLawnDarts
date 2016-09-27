@@ -70,3 +70,14 @@ Today's competition is to launch a payload to space and return the first stage s
 ![](https://raw.githubusercontent.com/eXigentCoder/DevDay2016-SpaceLawnDarts/master/images/Bug-E%20Buggy.png)
 - `15 points` Crash land on ground, engine or guidance computer survive. Stacks.
 - `7 points` Crash land on water, engine or guidance computer survive. Stacks.
+- `20 points` For each destroyed building
+
+## Rules
+1. The judge's decision is final on all matters.
+2. You must use the stock `F@!*on 1` rocket, no alterations allowed.
+2. No debug options allowed.
+3. No additional mods may be used.
+4. You may have as many turns as you like however only your highest score will be counted.
+5. So long as there are other people wanting to have a turn, you may only have 1 launch before you go to the back of the queue.
+6. Only rounds observed by the judges or appointed referree will be counted.
+7. In the event of a tie, there will be an additional challenge or replay at the discretion of the judges
